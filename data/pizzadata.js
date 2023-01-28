@@ -14,7 +14,7 @@ const pizzas = [
       description: "Classic delight with 100% real mozzarella cheese",
     },
     {
-      name: "Farmhouse",
+      name: "Panner pizza",
       varients: ["small", "medium", "large"],
       prices: [
         {
@@ -24,12 +24,12 @@ const pizzas = [
         },
       ],
       category: "veg",
-      image: "/images/farmhouse.jpg",
+      image: "/images/Panner pizza.jpg",
       description:
         "Delightful combination of onion, capsicum, tomato & grilled mushroom",
     },
     {
-      name: "Veggie Paradise",
+      name: "Thandoori pizza",
       varients: ["small", "medium", "large"],
       prices: [
         {
@@ -41,7 +41,7 @@ const pizzas = [
       category: "veg",
       description:
         "The awesome foursome! Golden corn, black olives, capsicum, red paprika",
-      image: "/images/veggie_paradise.jpg",
+      image: "/images/Thandoori pizza.jpg",
     },
     {
       name: "Chicken Golden Delight",
@@ -54,7 +54,7 @@ const pizzas = [
         },
       ],
       category: "nonveg",
-      image: "/images/chicken_golden_delight.jpg",
+      image: "/images/chickensupreme.jpg",
       description:
         "Double pepper barbecue chicken, golden corn and extra cheese, true delight",
     },
@@ -69,12 +69,12 @@ const pizzas = [
         },
       ],
       category: "nonveg",
-      image: "/images/cheesepepperoni.jpg",
+      image: "/images/classiccorn.jpg",
       description:
         "A classic American taste! Relish the delectable flavor of Chicken Pepperoni, topped with extra cheese",
     },
     {
-      name: "Indi Chicken Tikka",
+      name: "Chicken Tikka",
       varients: ["small", "medium", "large"],
       prices: [
         {
@@ -84,7 +84,7 @@ const pizzas = [
         },
       ],
       category: "nonveg",
-      image: "/images/IndianTandooriChickenTikka.jpg",
+      image: "/images/ChickenTikka.jpg",
       description:
         "The wholesome flavour of tandoori masala with Chicken tikka, onion, red paprika & mint mayo",
     },
